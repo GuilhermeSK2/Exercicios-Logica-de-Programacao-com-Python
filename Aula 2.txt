@@ -1,0 +1,15 @@
+Lógica = Arte do bem pensar
+
+Servidor = Um computador com grande capacidade de armazenamento e processamento 
+onde podemos por exemplo hospedar nosso site
+
+EPS = Entrada Processamento e Saída
+
+Ex. Programa de soma
+
+Digite um número:
+Leia numero1
+Digite um outro número:
+Leia numero2
+soma = numero1 + numero2
+O valor da soma é: soma
