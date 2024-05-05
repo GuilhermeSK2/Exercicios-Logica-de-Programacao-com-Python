@@ -3,7 +3,7 @@
 # Versão 1.0
 # Excercicio de Lógica de programação com a Linguagem de Programação Python
 
-# Algoritmo  para  ler  as  dimensões  de  um  circulo  (base  e  altura),  calcular  e  escrever  a área do circulo.
+# Algoritmo  para  ler  o  diâmetro  de  um  circulo,  calcular  e  escrever  a área do circulo.
 
 print("Vamos calcular a área do retângulo!")
 diametro = int(input("Insira o diâmetro do circulo:"))
