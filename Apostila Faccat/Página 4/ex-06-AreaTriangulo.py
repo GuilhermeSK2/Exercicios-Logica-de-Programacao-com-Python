@@ -5,10 +5,10 @@
 
 # Algoritmo  para  ler  as  dimensões  de  um  retângulo  (base  e  altura),  calcular  e  escrever  a área do retângulo.
 
-print("Vamos calcular a área do retângulo!")
+print("Vamos calcular a área do triângulo!")
 base = int(input("Insira o valor da base:"))
 altura = int(input("Insira o valor da altura:"))
 
-area = base * altura
+area = 0.5 * base * altura
 
-print("A área do retângulo é de", area)
+print("A área do triângulo é de", area)
