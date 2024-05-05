@@ -6,9 +6,8 @@
 # Algoritmo  para  ler  as  dimensões  de  um  quadrado  (base  e  altura),  calcular  e  escrever  a área do quadrado.
 
 print("Vamos calcular a área do quadrado!")
-base = int(input("Insira o valor da base:"))
-altura = int(input("Insira o valor da altura:"))
+lado = int(input("Insira o valor de um dos lados:"))
 
-area = base * altura
+area = lado * lado
 
 print("A área do quadrado é de", area)
