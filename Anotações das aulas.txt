@@ -1,0 +1,110 @@
+Anotações das aulas:
+
+
+
+Lógica = Arte do bem pensar
+
+Servidor = Um computador com grande capacidade de armazenamento e processamento 
+onde podemos por exemplo hospedar nosso site
+
+EPS = Entrada Processamento e Saída
+
+
+===============================================================================
+
+Ex. Programa de soma
+
+Digite um número:
+Leia numero1
+Digite um outro número:
+Leia numero2
+soma = numero1 + numero2
+O valor da soma é: soma
+
+
+===============================================================================
+
+Tipos de Dados:
+
+int = inteiro
+float = com ponto flutuante
+string = caractere
+bool = verdadeiro ou falso
+
+
+Grupos de tipos de dados:
+
+Numeric = Inteiro, float e Complex Numeros Complexos
+
+Dicionary
+
+Boolean
+
+Set
+
+Tipos de sequência = Strings, listas e Tuplas
+
+
+===============================================================================
+
+
+Estrutura de decisão simples
+		     composta
+		     encadeada
+switch/case	
+
+--------------------------------------------
+
+Operadores Aritiméticos 
+
++ = Soma
+- = Subtração
+* = Multiplicação
+/ = Divisão
+% = Resto da divisão
+** = Exponenciação
+
+--------------------------------------------
+
+Operadores Relacionais ou de Comparação
+
+> Maior que
+< Menor que
+>= Maior igual que
+<= Menor igual que
+== Igual
+!= Diferente
+
+--------------------------------------------
+
+Ex. estrutura de decisão simples
+
+Digite idade
+
+idade = 0
+
+se idade > 18 então
+   Pode se inscrever na Auto escola
+
+--------------------------------------------
+
+Ex. estrutura de decisão simples
+
+Digite idade
+
+a = 20
+b = 10
+
+se b > a então
+   B é maior que A
+senao
+   A é maior que o B
+
+--------------------------------------------
+
+Sugestões de ferramentas para produtividade com linguagens:
+
+
+Codeconvert
+
+Code translator
