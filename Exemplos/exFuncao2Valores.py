@@ -1,5 +1,3 @@
-
-
 #Soma
 
 def somaValores():
